@@ -1,5 +1,5 @@
 # FreeBSDandFAT
-A collection of figures comparing FreeBSD's default paging algorithm performance in comparison to a FAT Chance implementation. The data visualized in each figure is the average of 40 scans collected for both algorithms under the conditions of stress and no stress. 
+A collection of figures comparing FreeBSD's default paging algorithm performance in comparison to a FAT Chance implementation. The data visualized in each figure is the average of 40 scans collected for both algorithms under the conditions of stress and no stress. Stress was implemented by running various program files.
 
 View the figures in the following folders listed
 
